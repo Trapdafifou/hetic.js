@@ -7,6 +7,7 @@
 
 // -> then to start the tests run
 // npm test
+// restart automatically
 
 module.exports = {
     entry: {
